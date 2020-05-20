@@ -6,6 +6,7 @@ import chess.ChessMatch;
 import chess.ChessPiece;
 import chess.Color;
 
+//fix
 public class King extends ChessPiece {
 
 	private ChessMatch chessMatch;
